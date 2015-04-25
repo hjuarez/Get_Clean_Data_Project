@@ -46,7 +46,19 @@ The complete list of variables of each feature vector is available in 'features.
 
 ### Tidy data
 
-For all variables above the process resumes and summarise the data. 
+For all variables above the process resumes, group and summarise the data. 
+
+tidyData includes all variables refered above just leaving the ones that have in some part of its name the words mean or std,
+refering a mean and standard desviation.
+
+Aditionally the process includes the next variables:
+
+Subject_id: an integer number 
+  Identify the person whose measures are from.
+Activity_id: an integer number
+  Identify the activity the subject was doing determined by sensors
+Activity_desc: a character vector
+  Represent the activity description or activity label.
 
 In resume, the process does:
 
