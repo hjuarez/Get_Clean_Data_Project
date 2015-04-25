@@ -1,5 +1,5 @@
-# Getting and Cleanning Data course project
-### Autor: Héctor Juárez Lara
+﻿# Getting and Cleanning Data course project
+### Author: Héctor Juárez Lara
 ###### Date: April 23rd, 2015
 
 ##### The next code prepare tidy data that can be used for later analysis from all measures saved from sensors that register lots of info about a man activity that wears the sensors.
